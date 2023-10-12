@@ -1,0 +1,10 @@
+INFO    : PreTeXt project found in `/Users/alex.jordan/oer-sustainability`.
+WARNING : Using CLI version 2.0.2 but project's `requirements.txt`
+WARNING : is configured to use 1.6.1.dev20230612. Consider either installing
+WARNING : CLI version 1.6.1.dev20230612 or running `pretext init --refresh`
+WARNING : to update `requirements.txt` to match 2.0.2.
+CRITICAL: There is not a target named "html" for this project.ptx manifest.
+INFO    : However, the targets with names ['web', 'subset'] have "html" as their format.  Try to build one of those instead or edit your project.ptx manifest.
+CRITICAL: Exiting without completing build.
+INFO    : While running pretext, the following errors occurred:
+

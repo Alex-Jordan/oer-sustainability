@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<pretext xml:lang="en-US" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <docinfo>
+    <!-- <macros>\newcommand{\foo}{b^{ar}}</macros> -->
+    <!-- <latex-image-preamble>\usepackage{tikz}</latex-image-preamble> -->
+  </docinfo>
+  <article xml:id="oer-sustainability">
+    <title>OER Sustainability Concerns at PCC</title>
+
+    <frontmatter xml:id="frontmatter">
+      <titlepage>
+        <author>
+          <personname>Alex Jordan</personname>
+          <department>Cascade Math Department</department>
+          <institution>Portland Community College</institution>
+        </author>
+        <date>
+          <today />
+        </date>
+      </titlepage>
+      <abstract>
+        <p>
+          During Spring term 2023, I interviewed PCC faculty in Math, ESOL, Food &amp; Nutrition,
+          Chemistry, Psychology, Health Studies, and Environmental Studies to learn about their
+          concerns with maintainiing OER projects used by their SAC. This report summarizes their
+          concerns and recommendations for addressing the problems. Data about the impact of these
+          OER programs is prresented.
+        </p>
+        <p>
+          We assume readers already appreciate the sizable positive impact that OER use has on PCC
+          students and we do not try to make that argument here. Please contact Jen Klaudinyu
+          (<email>jen.klaudinyi@pcc.edu</email>) for questions about the impact of OER at PCC.
+        </p>
+    </abstract>
+    </frontmatter>
+
+    <xi:include href="./section-1.ptx" />
+    <xi:include href="./section-2.ptx" />
+    <xi:include href="./section-3.ptx" />
+  </article>
+</pretext>

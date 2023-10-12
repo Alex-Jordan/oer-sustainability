@@ -1,0 +1,246 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xml:id="section-2" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Paraphrased Interviews</title>
+  <introduction>
+    <p>
+      Here are some statements made by PCC faculty during an interview about OER sustainability.
+      None of these are direct quotations, since interview notes were only taken in shorthand.
+    </p>
+  </introduction>
+
+  <!-- 
+  SUGGESTIONS Tim Krause
+  Centralize around one-stop shopping place; not around common materials though
+  Wish list: take on assigning ISBNs
+  Central place at PCC to manage these OER libraries
+  Need for labor to keep things up to date; no plans at this time but aware of the upcoming need
+  Answering questions about how to use materials is already a lot of labor
+ -->
+
+ <!-- LABOR Deb Lippoldt and Heather Garza
+ Instructors use Announcements page to bring in new content because it is too hard to update the actual content
+ Use a variety of media in the content, keeping links up to date is labor
+ Have SAC shells, but it is natural to use your own shell from last term because you customized...
+ Wonder how much training with D2L could help
+ 100% all in to OER, but I wouldn't do it again because it's such a burden. Particularly form scratch, but even an adaptation. The startup funding happens, but then you have this responsibility to keep it going through volunteerism.
+ -->
+
+ <!-- SUGGESTIONS/LABOR Ken Friedrich
+Mike Mackel LibreText combining sources
+WeBWorK support for that course
+Recent expansion of who is using it
+Stephanie and Lee helps with WeBWorK issues
+Maintenance with the WeBWorK library falls on Lee
+Matt (temporary dean) is providing hours for Lee
+Every time, Ken mentions OER maintenance and the need for sustainable support
+0.162 release for the CH 151 LibreText
+ -->
+
+<!-- Deb Cozzoli
+Faculty all have to do their own bookstore orders  
+On a 4-year cycle, one 0.333 FTE release for a potential neuroscience OER
+Special project rate is not much pay and doesn't free up time
+-->
+
+<!-- Rachelle Katter
+Try to do solid updates every other year
+Built in Google folder
+Other classes also have OER, more manageable because fewer instructors involved
+Use OER in the courses with fewer students as a consequence
+The high volume courses aren't using OER, could be saving students a lot
+SAC members *want* to use OER but these issues are stopping it
+Only 5 FT faculty
+PT don't get paid for helping with the OER maintenance
+HE 250 0.33 course release, or two people with 0.25, or comparable pay for PT per 2 years
+Similar needs for labor with the smaller volume courses
+OER format: built into D2L as links to articles, curent news, peer reviewed research, YouTube videos, podcasts, 
+Can't get the stuff out of our D2L to another school
+Applying for OpenOregon grant for HE 242 (Stress and Human Health)
+--> 
+
+<!-- Taryn Oakley
+only user of OER on regular basis as textbook replacement
+ESR 171,2,3 (intro level not major lab course)
+choice of commercial or free reading list
+follows topics in book, sourced out to free sources
+some students want book all in one place, get commerical
+reading list is Google Doc
+0.25 FTE release every other year
+-->
+
+
+
+
+  <paragraphs>
+    <title>Routine Curriculum Updates</title>
+    <blockquote>
+      <p>
+        We would like to have a three year timeline with scheduled OER revision. We need maintenance
+        for current events, new science, new nutrition information, etc.  I was 100% all in to OER,
+        but I wouldn't do it again because it's such a burden. Particularly form scratch, but even
+        an adaptation. The startup funding happens, but then you have this responsibility to keep it
+        going through volunteerism.
+      </p>
+      <attribution>Deb Lippoldt and Heather Garza, FN</attribution>
+    </blockquote>
+    <blockquote>
+      <p>
+        An obstacle now to creating something new is awareness of this maintenance issue. In our
+        SAC, some content is changing on an ongoing basis as time and knowledge evolves.
+        Neuroscience for example is always changing. Human development and Intro Psych are
+        undergoing pedagogical upheaval for a few reasons.      
+      </p>
+      <attribution>Debi Cozzoli, PSY</attribution>
+    </blockquote>
+    <blockquote>
+      <p>
+        Our SAC created an OER with an early OpenOregon grant. But maintenance is where it fell
+        apart. Health information changes frequently, and there are frequent needs to update content
+        because of new information. Now only one instructor still using it.
+      </p>
+      <attribution>Rachelle Katter, HE</attribution>
+    </blockquote>
+    <blockquote>
+      <p>
+        This year our OER reading list needed to be updated. Students signed up for a section of the
+        reading list, checked links, checked accessibility, and give feedback about content. These
+        student presentations gave us lots of feedback, but now it will take lots of hours to make
+        revisions. And his kind of revision really should be annual or every other year.
+      </p>
+      <attribution>Taryn Oakley, ESR</attribution>
+    </blockquote>
+  </paragraphs>
+
+  <paragraphs>
+    <title>Making Use of New Technologies</title>
+    <blockquote>
+      <p>
+        SAC shells would make it easier to propagate improvements and take burden off of PT faculty,
+        but we don't have enough FT faculty to take that on. There should be one FT faculty
+        responsible for each SAC shell.
+      </p>
+      <attribution>Deb Lippoldt and Heather Garza, FN</attribution>
+    </blockquote>
+    <blockquote>
+      <p>
+        Accessibility needs and cultural responsiveness grow with time. Our Our OER is not currently
+        in a printable form. How will we provide this to Coffee Creek without a new platform?
+      </p>
+      <attribution>Rachelle Katter, HE</attribution>
+    </blockquote>
+    <blockquote>
+      <p>
+        All the various math OERs would benefit significantly from folding in more interactive
+        elements to help students learn as they read. Each one takes time and labor to prototype and
+        deploy, and we are years behind where we could be.
+      </p>
+      <attribution>Alex Jordan, MTH</attribution>
+    </blockquote>
+  </paragraphs>
+
+  <paragraphs>
+    <title>Wrangling Current Technologies</title>
+    <blockquote>
+      <p>
+        We use Pressbooks, Google Docs, slides, a webpage linking to 100 different documents, D2L
+        shells. It's all over the place because of the nature of the course. Ancillaries are
+        difficult to corral: audio files, video files, etc.
+      </p>
+      <p>
+        In our SAC, PressBooks is not good for workbooks. Google Docs is easier. But then the
+        Goolge Docs are difficult to manage, especially downstream with derivative works.
+      </p>
+      <p>
+        H5P in Pressbooks is great but we can't print those exercises. Pressbooks is structured
+        tightly (for accessibility) so not much freedom for layout/non-linear progression. Some
+        materials are presently digital only, which can become an equity issue.      
+      </p>
+      <attribution>Tim Krause, ESOL</attribution>
+    </blockquote>
+    <blockquote>
+      <p>
+        We teaching from D2L, but all the links for the OER point to Google Docs. Every time there
+        was a simple thing to change, had to be done in D2L and in Google. D2L was barrier because
+        we couldn't share the OER across instructors easily.
+      </p>
+      <attribution>Rachelle Katter, HE</attribution>
+    </blockquote>
+  </paragraphs>
+
+  <paragraphs>
+    <title>Technology Expertise</title>
+    <blockquote>
+      <p>
+        People feel unsure if they have ownership over making changes. Faculty do not understand
+        licensing well either. And the design of some OER can feel limiting to faculty who want to
+        change things. Projects are in a format that is hard to edit and does not always upload well
+        to other platforms (especially H5P items). Doing any maintenance requires detailing what you
+        want done, and sending that work order to someone outside your SAC who works with STORI, OL,
+        etc.
+      </p>
+      <attribution>Deb Lippoldt and Heather Garza, FN</attribution>
+    </blockquote>
+    <blockquote>
+      <p>
+        We have videos and embeddings created in collaboration with someone in OL and STORI. But
+        the videos needed updating, and there were some issue on back end, and we needed that person
+        (rather than anyone in our own SAC) for.
+      </p>
+      <attribution>Ken Friedrick, CH</attribution>
+    </blockquote>
+    <blockquote>
+      <p>
+        Many MTH OERs are based in a publishing tool called <pretext/> and manage versions with a
+        tool called <c>git</c>. Only a few SAC members know how to work with <pretext/> and
+        <c>git</c>.
+      </p>
+      <attribution>Alex Jordan, MTH</attribution>
+    </blockquote>
+  </paragraphs>
+
+  <paragraphs>
+    <title>Logistical Concerns</title>
+    <blockquote>
+      <p>
+        There's a lot of OER, but no department-wide requirement to use the same thing.
+        There's a lot of freedom. Many things are made, sometimes doubled up for the same course.
+        Teachers make downstream edits, but then how do people know which version is whose version?
+        Where is everything? How do I get it? Which version should I use? It's frustrating to
+        update something and find other faculty are still using old versions.
+      </p>
+      <p>
+        Print center job numbers and ISBNs are a challenge. Adopting faculty come to you with
+        questions about <q>your</q> OER even when they are really asking about a derivative work a
+        few generations removed. They might just have a logistical question like how to order
+        through the bookstore.
+      </p>
+      <attribution>Tim Krause, ESOL</attribution>
+    </blockquote>
+    <blockquote>
+      <p>
+        We need a culture of reporting improvements upstream.
+      </p>
+      <attribution>Deb Lippoldt and Heather Garza, FN</attribution>
+    </blockquote>
+    <blockquote>
+      <p>
+        Instructor to instructor, they choose independently how to deliver the OER. We had issues
+        with new faculty needing help getting started with the OER. Now we've each settled in our
+        ways, but separately. (We aren't able to bring improvements back to each other's versions.)
+      </p>
+      <attribution>Debi Cozzoli, PSY</attribution>
+    </blockquote>
+    <blockquote>
+      <p>
+        New versions of any OER for print that go through the PCC print center require a new print
+        center job number. If the print copy is then also sold through the bookstore, it needs a new
+        ISBN. Managing all of these order numbers and ISBNs can be a challenge. If it's not managed
+        well, you might find an instructor is still ordering print copies of an outdated version
+        from some previous year.
+      </p>
+      <attribution>Alex Jordan, MTH</attribution>
+    </blockquote>
+  </paragraphs>
+</section>
+
+
