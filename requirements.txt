@@ -1,1 +1,2 @@
-pretext == 1.6.1.dev20230612
+# <!-- Managed automatically by PreTeXt authoring tools -->
+pretext == 2.0.2
