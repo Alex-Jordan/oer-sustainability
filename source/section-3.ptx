@@ -1,45 +1,208 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xml:id="section-3" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Suggestions</title>
+  <title>Quantifying Need</title>
   <introduction>
     <p>
-      Combining input from several interviewees, here are some suggestions for PCC administration
-      and SACs to address obstacles to OER maintenance.
+      Courses that use OER should generally review and revise their OER content every four years.
+      In some rapidly evolving disciplines or disciplines that rely on recent data, this should
+      happen more frequently. This process takes time and labor. Here, we attempt to quantify the
+      necessary labor to maintain OERs at PCC this way.
     </p>
   </introduction>
   <p>
-    <ol>
-      <li>
-        <p>
-          Encourage SACs to use D2L root course shells managed at the SAC level. New D2L shells
-          would be copied from the SAC root shell, not from an instructor's prior shell. (Train
-          faculty to copy personalized components from their prior shells instead.) Foster a culture
-          of bringing improvements upstream to the SAC root shell.
-        </p>
-      </li>
-      <li>
-        <p>
-          An <q>OER coordinator</q> position for a SAC or for a collection of related SACs. For
-          example the MTH SAC has a coordinator for online courses, for student advising, and for
-          assessment; and these positions come with course release and defined responsibilities. A
-          coordinator could manage OER-based SAC root D2L shells, print center order numbers, ISBNs,
-          a faculty reference page, questions from faculty about all things OER, and executing some
-          of the SAC's needs for routine maintenance.
-        </p>
-      </li>
-      <li>
-        <p>
-          Fund PT faculty labor that goes toward OER maintenance.
-        </p>
-      </li>
-      <li>
-        <p>
-          Survey small SACs where OER is in use (or where the SAC would like to start using it) and
-          weigh this into decisions about where to hire more FT faculty and what skills should be
-          included in the job search.
-        </p>
-      </li>
-    </ol>
+    The following courses at PCC are known to use OER materials. This list comes from data gathered
+    by PCC and OpenOregon. During the course of creating this report it became apparent that even
+    that data is incomplete, and more courses at PCC can be assumed to be using OER materials.
+    <ul cols="5">
+      <li>ABE 0790</li>
+      <li>ABE 0791</li>
+      <li>AD 153</li>
+      <li>ANT 103</li>
+      <li>ANT 232</li>
+      <li>ART 101</li>
+      <li>ART 103</li>
+      <li>ART 140</li>
+      <li>ATH 101</li>
+      <li>ATH 102</li>
+      <li>ATH 103</li>
+      <li>ATH 104</li>
+      <li>BA 203</li>
+      <li>BA 223</li>
+      <li>BA 233</li>
+      <li>BA 278</li>
+      <li>BI 101</li>
+      <li>BI 103</li>
+      <li>BI 112</li>
+      <li>BI 121</li>
+      <li>BI 222</li>
+      <li>BI 231</li>
+      <li>BI 234</li>
+      <li>BT 170</li>
+      <li>CG 100</li>
+      <li>CG 111</li>
+      <li>CH 100</li>
+      <li>CH 151</li>
+      <li>COMM 100</li>
+      <li>COMM 111</li>
+      <li>COMM 214</li>
+      <li>COMM 218</li>
+      <li>EC 200</li>
+      <li>EC 201</li>
+      <li>EC 202</li>
+      <li>ED 131</li>
+      <li>ENG 204</li>
+      <li>ENGR 101</li>
+      <li>ENGR 114</li>
+      <li>ESOL 010</li>
+      <li>ESOL 020</li>
+      <li>ESOL 023</li>
+      <li>ESOL 040</li>
+      <li>ESOL 044</li>
+      <li>ESOL 101</li>
+      <li>ESOL 154</li>
+      <li>ESOL 160</li>
+      <li>ESOL 162</li>
+      <li>ESOL 199</li>
+      <li>ESOL 202</li>
+      <li>ESOL 250</li>
+      <li>ESOL 254</li>
+      <li>ESOL 260</li>
+      <li>ESOL 262</li>
+      <li>ESR 140</li>
+      <li>ESR 171</li>
+      <li>ESR 172</li>
+      <li>ESR 173</li>
+      <li>FN 110</li>
+      <li>FN 211</li>
+      <li>G 148</li>
+      <li>GEO 105</li>
+      <li>GEO 212</li>
+      <li>GEO 215</li>
+      <li>HE 212</li>
+      <li>HE 213</li>
+      <li>HE 250</li>
+      <li>HE 262</li>
+      <li>HE 278</li>
+      <li>HE 295</li>
+      <li>HE 242</li>
+      <li>HST 101</li>
+      <li>HST 102</li>
+      <li>HST 103</li>
+      <li>HST 104</li>
+      <li>HST 121</li>
+      <li>HST 122</li>
+      <li>HST 123</li>
+      <li>HST 201</li>
+      <li>HST 202</li>
+      <li>HST 203</li>
+      <li>HST 244</li>
+      <li>HST 250</li>
+      <li>HST 251</li>
+      <li>HUM 100</li>
+      <li>HUM 202</li>
+      <li>HUM 203</li>
+      <li>ID 120</li>
+      <li>IRW 115</li>
+      <li>MSD 107</li>
+      <li>MSD 115</li>
+      <li>MTH 050</li>
+      <li>MTH 060</li>
+      <li>MTH 065</li>
+      <li>MTH 095</li>
+      <li>MTH 105</li>
+      <li>MTH 111</li>
+      <li>MTH 112</li>
+      <li>MTH 243</li>
+      <li>MTH 244</li>
+      <li>MTH 251</li>
+      <li>MTH 252</li>
+      <li>MTH 253</li>
+      <li>MTH 254</li>
+      <li>MTH 256</li>
+      <li>MUS 205</li>
+      <li>MUS 216</li>
+      <li>PE 295</li>
+      <li>PHL 191</li>
+      <li>PHY 101</li>
+      <li>PHY 121</li>
+      <li>PHY 122</li>
+      <li>PHY 123</li>
+      <li>PHY 201</li>
+      <li>PHY 211</li>
+      <li>PHY 213</li>
+      <li>PSY 101</li>
+      <li>PSY 201</li>
+      <li>PSY 202</li>
+      <li>PSY 214</li>
+      <li>PSY 215</li>
+      <li>PSY 216</li>
+      <li>PSY 231</li>
+      <li>PSY 232</li>
+      <li>PSY 239</li>
+      <li>RD 090</li>
+      <li>RD 115</li>
+      <li>SOC 204</li>
+      <li>SOC 205</li>
+      <li>SOC 206</li>
+      <li>SOC 218</li>
+      <li>SOC 232</li>
+      <li>SOC 280A</li>
+      <li>VS 101</li>
+      <li>WR 090</li>
+      <li>WR 115</li>
+      <li>WR 121</li>
+      <li>WR 122</li>
+      <li>WR 222</li>
+      <li>WR 227</li>
+      <li>WR 241</li>
+      <li>WS 101</li>
+      <li>WS 201</li>
+      <li>WS 202</li>
+      <li>WS 210</li>
+    </ul>
+    In the introduction, we noted that this report does not attempt to persuade readers of the
+    value of OER. However we will note here that the cumulative effect of these OER-using courses
+    since 2015 has saved students over $9 million.
+  </p>
+  <p>
+    Interviewing maintainers of some of these OERs, we have their estimates for what amount of labor
+    is needed on a four-year scale to maintain their OER:
+  </p>
+  <tabular>
+    <col/>
+    <col halign="right"/>
+    <row header="yes">
+      <cell>Course</cell>
+      <cell>OER Maintenance per 4 years</cell>
+    </row>
+    <row><cell>CH 151</cell><cell>0.166</cell></row>
+    <row><cell>ESR 171</cell><cell>0.166</cell></row>
+    <row><cell>ESR 172</cell><cell>0.166</cell></row>
+    <row><cell>ESR 173</cell><cell>0.166</cell></row>
+    <row><cell>HE 212</cell><cell>0.333</cell></row>
+    <row><cell>HE 213</cell><cell>0.333</cell></row>
+    <row><cell>HE 250</cell><cell>0.333</cell></row>
+    <row><cell>HE 262</cell><cell>0.333</cell></row>
+    <row><cell>HE 278</cell><cell>0.333</cell></row>
+    <row><cell>HE 295</cell><cell>0.333</cell></row>
+    <row><cell>MTH 60</cell><cell>0.333</cell></row>
+    <row><cell>MTH 65</cell><cell>0.333</cell></row>
+    <row><cell>MTH 95</cell><cell>0.333</cell></row>
+    <row><cell>MTH 105</cell><cell>0.666</cell></row>
+    <row><cell>MTH 111</cell><cell>0.166</cell></row>
+    <row><cell>MTH 112</cell><cell>0.166</cell></row>
+    <row><cell>MTH 243</cell><cell>1.000</cell></row>
+    <row><cell>MTH 251</cell><cell>0.166</cell></row>
+    <row><cell>MTH 256</cell><cell>0.666</cell></row>
+  </tabular>
+  <p>
+    If we extrapolate this to the 145 courses listed above, we find there is a need for 48 FTE of
+    OER revision labor every 4 years. Or 12 FTE each year. If we assume that some of this labor is
+    covered by FT faculty <q>service to the college</q>, it is reasonable to round down to 10 FTE.
+  </p>
+  <p>
+    Of course, this is a rough extrapolation, and OERs from the 145 courses mentioned above might
+    need more or less than the extrapolation assumes.
   </p>
 </section>
 
